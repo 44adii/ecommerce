@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Data
+data/raw/
+data/processed/*.csv
+!data/processed/.gitkeep
+
+# Power BI
+*.pbix.tmp
+*.pbit
+*.pbip
+*.pbi
+
+# OS
+.DS_Store
+Thumbs.db

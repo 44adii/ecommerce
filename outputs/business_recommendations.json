@@ -1,0 +1,50 @@
+{
+  "generated_at": "2026-04-11 02:16:47",
+  "total_customers_analyzed": 4999,
+  "summary": {
+    "high_priority_actions": 0,
+    "medium_priority_actions": 2,
+    "low_priority_actions": 1
+  },
+  "recommendations": [
+    {
+      "priority": "MEDIUM",
+      "segment": "Potential Loyalists",
+      "count": 1443,
+      "action": "Upsell & Cross-sell Campaign",
+      "tactics": [
+        "Send product recommendations based on purchase history",
+        "Offer bundle deals (Buy 2 Get 1 Free)",
+        "Launch loyalty program with points system",
+        "Create educational content about premium products"
+      ],
+      "expected_impact": "Potential CLV uplift: $48,494,928.06"
+    },
+    {
+      "priority": "LOW",
+      "segment": "Lost Customers",
+      "count": 978,
+      "action": "Win-back Campaign",
+      "tactics": [
+        "Send \"We miss you\" email with aggressive discount (30-40%)",
+        "Survey to understand why they left",
+        "Highlight product improvements since last purchase",
+        "Limited-time exclusive offer"
+      ],
+      "expected_impact": "If 10% return, revenue: $820,536.67"
+    },
+    {
+      "priority": "MEDIUM",
+      "segment": "Champions",
+      "count": 832,
+      "action": "Brand Advocacy Program",
+      "tactics": [
+        "Launch referral program (refer 3, get $50 credit)",
+        "Create VIP tier with exclusive benefits",
+        "Invite to beta testing new products",
+        "Feature in customer success stories"
+      ],
+      "expected_impact": "Referral potential: 2496 new customers"
+    }
+  ]
+}
