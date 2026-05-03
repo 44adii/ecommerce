@@ -31,5 +31,3 @@ The core of this project is the **Ecommerce Intelligence Dashboard**. It provide
 2. **Python Analysis**: Run `python/customer_segmentation.py` for RFM analysis.
 3. **Visualization**: Open the `.pbix` file in Power BI and refresh the data source connections.
 
----
-*Created as part of an E-commerce Data Analytics Internship Project.*
